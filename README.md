@@ -51,7 +51,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## RTL realization:
 ![EX 2 RTL](https://github.com/subikshan2006/Experiment--02-Implementation-of-combinational-logic-/assets/139841805/014173d0-2f00-48a5-9e1a-34cafc2e4e54)
 ## TRUTH TABLE:
-![TRUTH TABLE EX2](https://github.com/subikshan2006/Experiment--02-Implementation-of-combinational-logic-/assets/139841805/196168a6-133c-40c3-b4f2-1633384e9a68)
+![tb](https://github.com/subikshan2006/Experiment--02-Implementation-of-combinational-logic-/assets/139841805/233eefed-9da1-4af9-9452-ca161c418f9c)
+
 
 
 ## Output WAVEFORM:
